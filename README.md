@@ -1,7 +1,7 @@
 To run the application, run :
 
- npm install
- npm start
+ --npm install
+ --npm start
 
 
 ***** In this application, you can create shopping list and keep track on who create which item.
